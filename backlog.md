@@ -1,40 +1,42 @@
 # Backlog
-**Sprint KW38 (14.9-25.9)**
+**Sprint 1 (14.9-25.9)**
 Erstellen Zeitplan
 Repo anlegen
 Literaturrecherche
 Methodischesvorgehen überlegen
 These aufstellen
 
-**Sprint KW40 (28.9-9.10)**
+**Sprint 2 (28.9-9.10)**
 Datenbeschafung: Die Software erkennt eine E-Mailsignatur, damit in einem späteren Schritt, der Kontakt vervollständigt werden kann.
 Kapitel Methodik
 
-**Sprint KW42 (12.10-23.10)**
+**Sprint 3 (12.10-23.10)**
 Datenanalyse: Die E-Mailsignatur wird in ihre einzelnen Bestandteile zerlegt und der Kontakt ergänzt.
 Kapitel Theorie
 
-**Sprint KW44 (26.10-6.11)**
+**Sprint 4 (26.10-6.11)**
 Datenbeschafung: Suchen des Kontaktes mittels Webscraping auf der E-maildomain
 
-**Sprint KW46 (13.11-20.11)**
+**Sprint 5 (13.11-20.11)**
 Datenanalyse: Erkennen der einzelnen Elemente und ergänzen des Kontaktes.
 
-**Sprint KW48 (23.11-4.12)**
-Auswertung anhand der Testdaten
-Ergebnissteil schreiben
-Ethik/ Datenschutzteil schreiben
+**Sprint 6 (23.11-4.12)**
+Auswertung anhandder Testdaten
+Kapitel Ergebniss schreiben
+Kapitel Ethik/ Datenschutz schreiben
 
-**Sprint KW50 (7.12-18.12)**
+**Sprint 7 (7.12-18.12)**
 Fazit schreiben
 Korrektur lesen
 Layout prüfen
 Arbeit fertig stellen
+Erstellen Präsentation
+Erstellen Kurzfilm
 
 **Weihnachtsferien**
 
-**Sprint KW2 (11.1-22.1)**
-Reserve
+**Reserve Sprint (11.1-22.1)**
+Reserve (Implementieren zusätzlicher Funktionalitäten)
 
 **Wichtige Daten**
 Abgabe Do. 21.1.2021
