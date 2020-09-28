@@ -50,7 +50,7 @@ https://medium.com/@acrosson/extracting-names-emails-and-phone-numbers-5d576354b
 
 ### Retro
 - investierte Zeit 10h/10h
-- geplant 45h/360h
+- geplant 18h/288h 12.5%
 - Guter Einstieg in die Bachelorarbeit
 - Viel research, viele Paper sind sehr komplex.
 - Viel zu wenig Zeit investiert
@@ -60,6 +60,7 @@ https://medium.com/@acrosson/extracting-names-emails-and-phone-numbers-5d576354b
 
 - Als Entwickler kann ich dem System den Inhalt einer E-Mail übergeben. Das System erkennt nun den die Signatur, sodass ich diese in einem weiteren Schritt auswerten kann.
   - Email Header parsen (RFC 5332)
+  - Beschaffen und anotieren von E-Maildaten aus CRM von Arbeitgeber
   - Machinelearning basierter Ansatz probieren
   - Heuristischer Ansatz probieren mittels Namenserkennung
   - Vergleich der beiden Varianten
