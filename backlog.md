@@ -9,38 +9,58 @@
 ### Review
 #### Signatur erkennen
 Machine Learning basierter Ansatz
+
 https://medium.com/snapaddy-tech-blog/machine-learning-for-signature-detection-7c62d838f520
 
+
 Python Code, auch machine learning basiert (Dokumentation leider auf russisch)
+
 https://github.com/Dimama/email-signature-detection
 
 Open Source Framework by Mailgun
+
 https://www.mailgun.com/blog/open-sourcing-our-email-signature-parsing-library/
+
 https://github.com/mailgun/talon
+
 
 Research Papers
 https://www.researchgate.net/publication/221650827_Learning_to_Extract_Signature_and_Reply_Lines_from_Email
+
 https://library.ndsu.edu/ir/bitstream/handle/10365/25893/Signature%20Extraction%20from%20E-Mails.pdf?sequence=1&isAllowed=y
+
 http://keg.cs.tsinghua.edu.cn/jietang/publications/f142-tang.pdf
+
 https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.11.2718
+
 http://www.cs.cmu.edu/~vitor/papers/sigFilePaper_finalversion.pdf
+
 
 #### Web Scraping
 Im Unterricht behandelt
+
 https://scrapy.org/
 
 Privat benutzt
+
 https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+
 https://mechanicalsoup.readthedocs.io/en/stable/
+
 
 weitere Webcrawler
 http://stormcrawler.net/
+
 https://www.norconex.com/
+
 http://go-colly.org/
+
 
 #### Extracting Contact Information
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3358293
+
 https://datascienceplus.com/how-to-extract-email-phone-number-from-a-business-card-using-python-opencv-and-tesseractocr/
+
 https://medium.com/@acrosson/extracting-names-emails-and-phone-numbers-5d576354baa
 
 ### Retro
