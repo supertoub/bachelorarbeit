@@ -50,7 +50,7 @@ https://medium.com/@acrosson/extracting-names-emails-and-phone-numbers-5d576354b
 
 ### Retro
 - investierte Zeit 10h/10h
-- geplant 18h/288h 12.5%
+- geplant 18h/144h 12.5%
 - Guter Einstieg in die Bachelorarbeit
 - Viel research, viele Paper sind sehr komplex.
 - Viel zu wenig Zeit investiert
@@ -71,7 +71,7 @@ https://medium.com/@acrosson/extracting-names-emails-and-phone-numbers-5d576354b
 
 ### Retro
 - investierte Zeit 26h/36h
-- geplant Woche 4/16 25%
+- geplant Woche 36h/144h 25%
 - Abklährung in welchem Format erhalte ich die E-Mails 'plain/text', 'plain/html' oder beides .eml file
 - Sprachen wirrwar PHP vs. Python Entscheid wie API schreiben
 - keine Zeit füt Maschinlearning Ansatz -> Werde ich nachholen in Sprint 3
