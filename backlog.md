@@ -107,6 +107,7 @@ https://medium.com/@acrosson/extracting-names-emails-and-phone-numbers-5d576354b
 
 ## Wichtige Daten
 
+- Meeting mit Experte Mi 28.10.2020 10:00
 - Abgabe Do. 21.1.2021
 - Präsentation Fr. 22.1.2021
 - Posterausstellung Fr. 22.1.2021
