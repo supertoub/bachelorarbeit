@@ -80,9 +80,8 @@ https://medium.com/@acrosson/extracting-names-emails-and-phone-numbers-5d576354b
 
 ## Sprint 3 (12.10-23.10)
 
-**Left Over Sprint 2**
-
-- Machine Learning basierter Ansatz
+- Left Over Sprint 2
+  - Machine Learning basierter Ansatz
 
 - Als User kann ich dem System den Inhalt einer E-Mail übergeben und erhalte danach die Signatur aufgeschlüsselt in ihre Bestandteile, sodass diese automatisch im CRM System ergänzt oder geupdatet werden kann.
   - Anotieren der Signaturen um das System zu validieren
