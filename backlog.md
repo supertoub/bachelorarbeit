@@ -69,14 +69,34 @@ https://medium.com/@acrosson/extracting-names-emails-and-phone-numbers-5d576354b
 - Kapitel Methodik
 - Tasks für Sprint 3 definieren
 
+### Retro
+- investierte Zeit 26h/36h
+- geplant 36h/288h 25%
+- Abklährung in welchem Format erhalte ich die E-Mails 'plain/text', 'plain/html' oder beides .eml file
+- Sprachen wirrwar PHP vs. Python Entscheid wie API schreiben
+- keine Zeit füt Maschinlearning Ansatz -> Werde ich nachholen in Sprint 3
+- Sprint 3 etwas weniger voll laden, da noch Left overs
+
+
 ## Sprint 3 (12.10-23.10)
 
+**Left Over Sprint 2**
+
+- Machine Learning basierter Ansatz
+
 - Als User kann ich dem System den Inhalt einer E-Mail übergeben und erhalte danach die Signatur aufgeschlüsselt in ihre Bestandteile, sodass diese automatisch im CRM System ergänzt oder geupdatet werden kann.
-- Kapitel Theorie
+  - Anotieren der Signaturen um das System zu validieren
+  - Klähren, in welchem Format erhalte ich die E-Mails
+    - Repleys erkennen, kann erst gemacht werden wenn Format geklährt.
+  - E-Mail und Telefonnummer erkennen mittels regex
+  - Name erkennen mittels arbeit Projekt 2
+  - Analyse wie Strasse, Ort erkennen.
+- Einrichten Serverless für Python API
 
 ## Sprint 4 (26.10-6.11)
 
 - Als Entwickler erhalte ich alle URLs der E-Maildomain, welche den übergebenen Namen enthalten, sodass ich in einem weiteren Schritt diese nach Informationen zur gesuchten Person durchsuchen kann.
+- Kapitel Theorie
 
 ## Sprint 5 (13.11-20.11)
 
