@@ -92,6 +92,16 @@ https://medium.com/@acrosson/extracting-names-emails-and-phone-numbers-5d576354b
   - Analyse wie Strasse, Ort erkennen.
 - Einrichten Serverless für Python API
 
+### Retro
+- investierte Zeit 19h/55h
+- geplant Woche 54h/144h 37.5%
+- Maschinlearning bassierter mittels Simpletree hat eine sehr einfache Lösung ergeben
+- E-Mails kommen als Rein Text
+- Das System kann bereits filtern ob es sich um ein Replay handelt, darum Replay detection nicht nötig.
+- Fax wird aktuell noch als Tel angezeigt
+- Schwirigkeit macht akutell noch der Jobtitel
+
+
 ## Sprint 4 (26.10-6.11)
 
 - Als Entwickler erhalte ich alle URLs der E-Maildomain, welche den übergebenen Namen enthalten, sodass ich in einem weiteren Schritt diese nach Informationen zur gesuchten Person durchsuchen kann.
