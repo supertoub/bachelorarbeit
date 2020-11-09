@@ -94,7 +94,7 @@ https://medium.com/@acrosson/extracting-names-emails-and-phone-numbers-5d576354b
 
 ### Retro
 - investierte Zeit 19h/55h
-- geplant Woche 54h/144h 37.5%
+- geplant Zeit 54h/144h 37.5%
 - Maschinlearning bassierter mittels Simpletree hat eine sehr einfache Lösung ergeben
 - E-Mails kommen als Rein Text
 - Das System kann bereits filtern ob es sich um ein Replay handelt, darum Replay detection nicht nötig.
@@ -105,15 +105,30 @@ https://medium.com/@acrosson/extracting-names-emails-and-phone-numbers-5d576354b
 ## Sprint 4 (26.10-6.11)
 
 - Als Entwickler erhalte ich alle URLs der E-Maildomain, welche den übergebenen Namen enthalten, sodass ich in einem weiteren Schritt diese nach Informationen zur gesuchten Person durchsuchen kann.
-- Kapitel Theorie
+  - Allen Links folgen. Evaluieren, wie viele Stufen werden benötigt?
+  - Um den Webserver zu schonen, Seiten cachen um Seiten nicht doppelt abzufragen.
+
+### Retro
+- investiere Zeit 17h/72h
+- geplante Zeit 72h/144h 50%
+- Anzahl der Seiten steigt Exponentiell an.
+  - Bsp. bfh.ch Startseite 216 Links, 1. Follow >60'000
+  - Bsp. Person Jürgen Vogel immer noch nicht gefunden
+  - Dauer aller Anfragen > 3min (seriell abgefragt, könnte evtl. noch optimiert werden)
+- Google nutzen um die relevanten Seiten zu finden
+- Aufbau Lexikon Jobtitel via jobs.ch geplant sind weitere Jobportale
+
 
 ## Sprint 5 (13.11-20.11)
 
 - Als User kann ich dem System einen Namen und eine Domain übergeben und erhalte alle Informationen zu dieser Person, welche sich auf dieser Seite befinden.
+  - Parsen der optisch umliegenden Elemente um den gesuchten Namen
+  - Jobtitel Lexikon überprüfen
 
 ## Sprint 6 (23.11-4.12)
 
 - Als User möchte ich die Qualität des Systemes gegen ein grosses Testset testen, sodass ich Rückschlüsse über die Qualität und Funktionalität haben kann.
+- Kapitel Theorie
 - Kapitel Ergebniss schreiben
 - Kapitel Ethik/ Datenschutz schreiben
 
