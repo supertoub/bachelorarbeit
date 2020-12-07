@@ -123,7 +123,6 @@ https://medium.com/@acrosson/extracting-names-emails-and-phone-numbers-5d576354b
 
 - Als User kann ich dem System einen Namen und eine Domain übergeben und erhalte alle Informationen zu dieser Person, welche sich auf dieser Seite befinden.
   - Parsen der optisch umliegenden Elemente um den gesuchten Namen
-  - Jobtitel Lexikon überprüfen
 
 ### Retro
 - investiere Zeit 1h/73h
@@ -141,6 +140,7 @@ Als Massnahme wurde ein achter Sprint über die Weihnachtsfeiertage eingeplant.
 - investiere Zeit 12h/85h
 - geplante Zeit 108h/144h 75%
 - Leider ist das Firmenprojekt immer noch nicht ganz abgeschlossen, weshalb nur 12h statt 18h investiert werden konnten. Durch den zusätzlichen Sprint 8, sollte dies aber kompensiert werden können.
+- Hauptschwirigkeit ist heruaszufinden, wie weit nach aussen um den Namen gesucht werden muss.
 
 ## Sprint 7 (7.12-18.12)
 
