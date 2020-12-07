@@ -125,15 +125,32 @@ https://medium.com/@acrosson/extracting-names-emails-and-phone-numbers-5d576354b
   - Parsen der optisch umliegenden Elemente um den gesuchten Namen
   - Jobtitel Lexikon überprüfen
 
+### Retro
+- investiere Zeit 1h/73h
+- geplante Zeit 90h/144h 62.5%
+
+Aufgrund eines grösseren Projektes meines Arbeitgebers konnte ich leider kaum Zeit für die Bachelorarbeit investieren. Deshalb gab es auch keine Resultate in diesem Sprint.
+Als Massnahme wurde ein achter Sprint über die Weihnachtsfeiertage eingeplant.
+
 ## Sprint 6 (23.11-4.12)
 
-- Als User möchte ich die Qualität des Systemes gegen ein grosses Testset testen, sodass ich Rückschlüsse über die Qualität und Funktionalität haben kann.
-- Kapitel Theorie
-- Kapitel Ergebniss schreiben
-- Kapitel Ethik/ Datenschutz schreiben
+- Als User kann ich dem System einen Namen und eine Domain übergeben und erhalte alle Informationen zu dieser Person, welche sich auf dieser Seite befinden.
+  - Parsen der optisch umliegenden Elemente um den gesuchten Namen
+
+### Retro
+- investiere Zeit 12h/85h
+- geplante Zeit 108h/144h 75%
+- Leider ist das Firmenprojekt immer noch nicht ganz abgeschlossen, weshalb nur 12h statt 18h investiert werden konnten. Durch den zusätzlichen Sprint 8, sollte dies aber kompensiert werden können.
 
 ## Sprint 7 (7.12-18.12)
 
+- Als User möchte ich die Qualität des Systemes gegen ein grosses Testset testen, sodass ich Rückschlüsse über die Qualität und Funktionalität haben kann.
+- Kapitel Ergebniss schreiben
+- Kapitel Ethik/ Datenschutz schreiben
+
+## extra Sprint 8 (21.12-8.1)
+
+- Kapitel Theorie
 - Fazit schreiben
 - Korrekturlesen
 - Layout prüfen
@@ -156,4 +173,5 @@ https://medium.com/@acrosson/extracting-names-emails-and-phone-numbers-5d576354b
 - Präsentation Fr. 22.1.2021
 - Posterausstellung Fr. 22.1.2021
 - Abgabe Kurzfilm Fr. 29.1.2021
-- Abgabe Book ?
+- Abgabe Book Do. 7.1.2021
+- Verteidigung Mo. 25.1 13:00 oder Di 26.1 09:30
