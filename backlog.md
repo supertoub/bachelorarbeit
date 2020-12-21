@@ -145,33 +145,48 @@ Als Massnahme wurde ein achter Sprint über die Weihnachtsfeiertage eingeplant.
 ## Sprint 7 (7.12-18.12)
 
 - Als User möchte ich die Qualität des Systemes gegen ein grosses Testset testen, sodass ich Rückschlüsse über die Qualität und Funktionalität haben kann.
-- Kapitel Ergebniss schreiben
-- Kapitel Ethik/ Datenschutz schreiben
+
+Resultat Email Signatur
+- 93% Precission (1496 Emails)
+
+Sehr gute Resultate erziehlt. Falls noch genügend Zeit bleibt, wäre es interessant dies direkt in Outlook mittels eines Plugins zu integrieren.
+
+Resultat Web Scaping
+- 36% Precission (9860 Kontakte)
+Leider gibt es oft über nicht Kadermitglieder keine Information auf der Webseite.
+Darum ist dieses Resultat trotz relativ hilfreicht, da es bei den 36% vorallem um Entscheidungsträger geht.
+
+### Retro
+- investiere Zeit 9h/97h
+- geplante Zeit 126h/144h 87.5%
+
 
 ## extra Sprint 8 (21.12-8.1)
 
+- Kapitel Ergebniss schreiben
+- Kapitel Ethik/ Datenschutz schreiben
 - Kapitel Theorie
 - Fazit schreiben
-- Korrekturlesen
-- Layout prüfen
-- Arbeit fertig stellen
-- Erstellen Präsentation
-- Erstellen Kurzfilm
-- Erstellen Poster
 
 **Weihnachtsferien**
 
 ## Reserve Sprint (11.1-22.1)
 
-- Reserve
+- Erstellen Präsentation
+- Erstellen Kurzfilm
+- Erstellen Poster
+- Korrekturlesen
+- Layout prüfen
+- Arbeit fertig stellen
 - (Implementieren zusätzlicher Funktionalitäten)
 
 ## Wichtige Daten
 
 - Meeting mit Experte Mi 28.10.2020 10:00
+- Meeting mit Experte Mi 7.12.2020 10:15
+- Abgabe Book Do. 7.1.2021
 - Abgabe Do. 21.1.2021
 - Präsentation Fr. 22.1.2021
 - Posterausstellung Fr. 22.1.2021
 - Abgabe Kurzfilm Fr. 29.1.2021
-- Abgabe Book Do. 7.1.2021
 - Verteidigung Mo. 25.1 13:00 oder Di 26.1 09:30
