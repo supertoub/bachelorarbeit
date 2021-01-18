@@ -188,5 +188,6 @@ Darum ist dieses Resultat trotz relativ hilfreicht, da es bei den 36% vorallem u
 - Abgabe Do. 21.1.2021
 - Präsentation Fr. 22.1.2021
 - Posterausstellung Fr. 22.1.2021
+- Verteidigung Mo. 25.1.2021 13:00
 - Abgabe Kurzfilm Fr. 29.1.2021
 - Verteidigung Mo. 25.1 13:00 oder Di 26.1 09:30

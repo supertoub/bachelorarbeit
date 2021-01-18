@@ -1,6 +1,0 @@
-Scrum
-Sprint
-Webscraping
-Datensets
-Precision
-Recall
